@@ -1,5 +1,5 @@
 {
   "version": "1.0",
   "download_url": "https://github.com/HengAudom/auto-reels-post/releases/download/auto-reels-post-v2.3/AutoReelsPost.exe",
-  "notes": "- កែ​ Bug​ Emoji​ ក្នុង Caption\n- Switch Page លឿន​ជាង​ (~5s ជំនួស ~20s)\n- ពេល Start Posting​ លើក​ទី2​ ក្នុង Session: Skip Switch ទាំង​ស្រុង\n- Page ទាំង​អស់​លេច​ឡើង​ក្នុង Dropdown​ ភ្លាម​ ក្រោយ Login\n- ប្ដូរ Button Connect​ ឲ​បង្ហាញ​ឈ្មោះ​ Account \n"
+  "notes": "- កែ​សម្រួលបញ្ហាការរក្សាទុក\n- បន្ថែមមុចងារគ្រប់គ្រងក្រដាស់\n- បន្ថែមមុខងារ Rotate Image"
 }
