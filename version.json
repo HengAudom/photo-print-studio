@@ -2,5 +2,5 @@
   "version": "1.3",
   "download_url": "https://github.com/HengAudom/photo-print-studio/releases/download/photo-print-studio-v1.3/PhotoPrintStudio.exe",
   "notes": ""notes": "- នាំចូលរូបថតច្រើនស្វ័យប្រវត្តិ (Batch Import Student/ID Photos 50+ រូប)\n- ឧបករណ៍កែពន្លឺ/Contrast និងប្តូរពណ៌ផ្ទៃក្រោយរូបថត (🔵ខៀវ Passport 🔴ក្រហម ⬜ស)\n- រក្សាទុក និងទាញយកគំរូ Layout (Save & Load Layout Templates .json)\n- គាំទ្រការអូសទម្លាក់រូបភាព (Drag & Drop Image Files ចូល Canvas)\n- របារជ្រើសរើសទំហំរហ័ស (Quick Preset Bar 3×4, 4×6, 2×3, 5×5)\n- បន្ថែមគ្រាប់ចុចកាត់បញ្ជារហ័ស (Keyboard Shortcuts Ctrl+O, Ctrl+S, Ctrl+P, Ctrl+E, Ctrl+T)\n- បន្ថែមផ្ទាំងណែនាំរបៀបប្រើប្រាស់ និងពន្យល់គ្រប់មុខងារ (App User Guide)\n- កែសម្រួលបញ្ហាលុបទំព័រ និងរចនាផ្ទាំងជូនដំណឹងទំនើប (Warning/Confirmation Dialogs)"
-}"
+
 }
