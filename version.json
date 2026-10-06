@@ -1,5 +1,5 @@
 {
-  "version": "1.4",
-  "download_url": "https://github.com/HengAudom/photo-print-studio/releases/download/photo-print-studio-v1.4/PhotoPrintStudio.exe",
+  "version": "1.5",
+  "download_url": "https://github.com/HengAudom/photo-print-studio/releases/download/photo-print-studio-v1.5/PhotoPrintStudio.exe",
   "notes": "- មុខងារមិនធ្វើវិញ និងធ្វើវិញ (Undo & Redo System ជាមួយគ្រាប់ចុចកាត់ Ctrl+Z, Ctrl+Y / Ctrl+Shift+Z)\n- រចនា Icon សញ្ញាព្រួញកោង Vector ថ្មីលើប៊ូតុង Undo/Redo ច្បាស់ស្អាត មិនបែក (Sharp Vector Undo/Redo Icons)\n- កែសម្រួលការ Export PDF & Print ការពារដាច់គែមរូបភាព និងមិនបាត់បង់ផ្នែកក អាវ (Fixed PDF & Print Edge-Overflow)\n- កែលម្អការរៀបចំកាតទំហំ 3×4 cm និង Custom Sizes ឱ្យពេញទំព័រ និងច្បាស់ល្អ (Enhanced 3×4 cm Preview & Auto Layout)\n- ជួសជុលការរក្សាទុក និងទាញយកគំរូ Layout Templates (.json) ឱ្យត្រូវតាមការកំណត់ 100% (Fixed Layout Templates Precision)\n- ចងចាំទីតាំង Folder រូបភាពដែលបានជ្រើសរើសចុងក្រោយ មិនបាច់រុករកម្តងទៀត (Remember Last Selected Folder Path)"
 }
